@@ -1,0 +1,66 @@
+
+> devops-springboot-portfolio@0.0.0 start
+> vite --host 127.0.0.1 --port 5173
+
+[2m1:47:20 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Re-optimizing dependencies because vite config has changed
+
+  [32m[1mVITE[22m v8.0.10[39m  [2mready in [0m[1m424[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m1:49:51 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m1:49:51 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/portfolio.css[22m
+[2m1:49:59 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/portfolio.css[22m
+[2m1:51:33 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m1:53:48 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Skills.jsx, /src/components/Journey.jsx, /src/components/Hero.jsx, /src/components/Projects.jsx, /src/components/Contact.jsx, /src/components/Header.jsx[22m
+[2m1:53:48 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m1:53:48 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m1:53:48 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/portfolio.css[22m
+[2m1:56:36 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Skills.jsx, /src/components/Journey.jsx, /src/components/Hero.jsx, /src/components/Projects.jsx, /src/components/Contact.jsx, /src/components/Header.jsx[22m
+[2m1:57:56 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Skills.jsx, /src/components/Journey.jsx, /src/components/Hero.jsx, /src/components/Projects.jsx, /src/components/Contact.jsx, /src/components/Header.jsx[22m
+[2m2:00:36 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Skills.jsx, /src/components/Journey.jsx, /src/components/Hero.jsx, /src/components/Projects.jsx, /src/components/Contact.jsx, /src/components/Header.jsx[22m
+[2m2:06:34 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:06:34 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Header.jsx[22m
+[2m2:06:34 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx[22m
+[2m2:06:35 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Skills.jsx[22m
+[2m2:06:35 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m2:06:35 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Skills.jsx, /src/components/Journey.jsx, /src/components/Hero.jsx, /src/components/Projects.jsx, /src/components/Contact.jsx, /src/components/Header.jsx[22m
+[2m2:06:44 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/portfolio.css[22m
+[2m2:07:58 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/portfolio.css[22m
+[2m2:07:58 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:10:31 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:10:31 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ParticleBackground.jsx[22m
+[2m2:11:00 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/portfolio.css[22m
+[2m2:13:29 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:13:29 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Header.jsx[22m
+[2m2:13:58 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/portfolio.css[22m
+[2m2:20:25 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Skills.jsx, /src/components/Journey.jsx, /src/components/Hero.jsx, /src/components/Projects.jsx, /src/components/Contact.jsx, /src/components/Header.jsx[22m
+[2m2:20:34 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/portfolio.css[22m
+[2m2:27:14 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Skills.jsx[22m
+[2m2:27:15 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Skills.jsx, /src/components/Journey.jsx, /src/components/Hero.jsx, /src/components/Projects.jsx, /src/components/Contact.jsx, /src/components/Header.jsx[22m
+[2m2:27:21 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/portfolio.css[22m
+[2m2:29:12 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:29:12 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m2:29:12 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/SkillsPage.jsx[22m
+[2m2:29:12 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/ProjectsPage.jsx[22m
+[2m2:29:12 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/JourneyPage.jsx[22m
+[2m2:29:12 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/ContactPage.jsx[22m
+[2m2:31:10 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Skills.jsx, /src/components/Journey.jsx, /src/components/Hero.jsx, /src/components/Projects.jsx, /src/components/Contact.jsx, /src/components/Header.jsx[22m
+[2m2:34:09 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/portfolio.css[22m
+[2m2:36:46 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Skills.jsx, /src/components/Journey.jsx, /src/components/Hero.jsx, /src/components/Projects.jsx, /src/components/Contact.jsx, /src/components/Header.jsx[22m
+[2m2:36:56 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/TechIcon.jsx[22m
+[2m2:38:18 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Skills.jsx, /src/components/Journey.jsx, /src/components/Hero.jsx, /src/components/Projects.jsx, /src/components/Contact.jsx, /src/components/Header.jsx[22m
+[2m2:38:25 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/TechIcon.jsx[22m
+[2m2:40:12 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Projects.jsx[22m
+[2m2:40:30 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/portfolio.css[22m
+[2m2:44:09 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/portfolio.css[22m
+[2m2:46:59 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Header.jsx[22m
+[2m2:46:59 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/portfolio.css[22m
+[2m2:51:22 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:51:22 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/portfolio.css[22m
+[2m2:53:45 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/portfolio.css[22m
+[2m2:56:06 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mpublic/Dhayananth-M-Resume.html[22m
+[2m2:56:06 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Skills.jsx, /src/components/Journey.jsx, /src/components/Hero.jsx, /src/components/Projects.jsx, /src/components/Contact.jsx, /src/components/Header.jsx[22m
+[2m2:56:06 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Hero.jsx[22m
+[2m2:56:06 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Contact.jsx[22m
+[2m2:57:21 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mpublic/Dhayananth-M-Resume.html[22m
+[2m2:58:37 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Skills.jsx, /src/components/Journey.jsx, /src/components/Hero.jsx, /src/components/Projects.jsx, /src/components/Contact.jsx, /src/components/Header.jsx[22m
