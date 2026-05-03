@@ -4,7 +4,7 @@ export const profile = {
   summary:
     'I work with DevOps practices, CI/CD pipelines, Linux, Shell Script, Git, GitHub, Docker, Kubernetes, Terraform, Ansible, AWS services, and deployment workflows. I have built a Spring Boot Thymeleaf CRUD project, deployed it on AWS EC2, and practiced 3-tier architecture with separate application and secured database instances.',
   location: 'India',
-  email: 'dhaya@example.com',
+  email: 'thayananththaya71@gmail.com',
   resumeUrl: '/Resume.pdf',
   resumeFileName: 'Dhayananth-M-Resume.pdf',
   githubUrl: 'https://github.com/Dhayananth-dev',
