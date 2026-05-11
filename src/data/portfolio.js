@@ -148,6 +148,13 @@ export const projects = [
       'Configured a Jenkins pipeline for build and deployment workflow, with Nginx used as the web server and reverse proxy.',
     highlights: ['Jenkins pipeline', 'Nginx server', 'Deployment workflow'],
   },
+  {
+    name: 'Ansible Worker Node Spring Boot Deployment',
+    type: 'Ansible + Jenkins + Docker Compose',
+    description:
+      'Configured an Ansible worker node and deployed a Spring Boot application using Jenkins, Docker, and Docker Compose for an automated deployment workflow.',
+    highlights: ['Ansible configuration', 'Worker node deployment', 'Jenkins + Docker Compose'],
+  },
 ]
 
 export const journey = [

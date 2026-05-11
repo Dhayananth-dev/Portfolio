@@ -819,10 +819,13 @@ html {
   }
 
   .metric-card {
+    flex: 0 0 auto;
     width: 100%;
     max-width: none;
-    border-radius: 18px;
     align-items: flex-start;
+    min-height: auto;
+    padding: 14px 16px;
+    border-radius: 18px;
   }
 
   .section-heading {
