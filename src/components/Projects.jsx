@@ -13,7 +13,7 @@ function Projects() {
       <SectionHeading
         eyebrow="Featured Projects"
         title="Spring Boot application deployed with DevOps workflow"
-        text="Projects focused on CRUD development, Docker deployment, Jenkins pipeline, EC2, and Nginx."
+        text="Projects focused on Spring Boot, Ollama, Redis, MySQL, Docker, Jenkins, EC2, Nginx, and secure VPC deployment."
       />
       <div className="projects-grid">
         {projects.map((project) => (

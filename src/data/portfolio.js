@@ -32,7 +32,7 @@ export const skills = [
   },
   {
     title: 'Database',
-    items: ['MySQL', 'SQL queries', 'Tables', 'Primary keys', 'Joins', 'Secure DB setup'],
+    items: ['MySQL', 'Redis', 'SQL queries', 'Tables', 'Primary keys', 'Joins', 'Secure DB setup'],
   },
 ]
 
@@ -121,13 +121,6 @@ export const techSkills = [
 
 export const projects = [
   {
-    name: 'Spring Boot Thymeleaf CRUD Application',
-    type: 'Spring Boot + Thymeleaf + MySQL',
-    description:
-      'Built a web application using Spring Boot and Thymeleaf with CRUD operations for creating, reading, updating, and deleting data.',
-    highlights: ['Thymeleaf views', 'CRUD operations', 'MySQL database'],
-  },
-  {
     name: 'EC2 Docker Compose Deployment',
     type: 'AWS EC2 + Docker',
     description:
@@ -149,11 +142,25 @@ export const projects = [
     highlights: ['Jenkins pipeline', 'Nginx server', 'Deployment workflow'],
   },
   {
+    name: 'Static Web Hosting on AWS EC2 with Nginx',
+    type: 'AWS EC2 + Linux + Nginx',
+    description:
+      'Hosted a static website on AWS EC2 using Nginx, configured Linux server setup, port management, and validated application accessibility in a cloud environment.',
+    highlights: ['AWS EC2 hosting', 'Nginx web server', 'Linux port management'],
+  },
+  {
     name: 'Ansible Worker Node Spring Boot Deployment',
     type: 'Ansible + Jenkins + Docker Compose',
     description:
       'Configured an Ansible worker node and deployed a Spring Boot application using Jenkins, Docker, and Docker Compose for an automated deployment workflow.',
     highlights: ['Ansible configuration', 'Worker node deployment', 'Jenkins + Docker Compose'],
+  },
+  {
+    name: 'AI-Powered Spring Boot Application Deployment',
+    type: 'Spring Boot + Ollama + Redis + MySQL + AWS EC2',
+    description:
+      'Deployed a multi-server AI-powered application with separate EC2 instances for the Spring Boot app, Ollama AI service, and MySQL with Redis, using Jenkins, shell scripting, SSH deployment, and secure AWS VPC networking.',
+    highlights: ['3 EC2 servers', 'Ollama + Redis caching', 'Secure VPC networking'],
   },
 ]
 
